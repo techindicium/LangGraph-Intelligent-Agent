@@ -32,8 +32,8 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/techindicium/LangGraph-Intelligent-Agent.git
+   cd LangGraph-Intelligent-Agent
    ```
 
 2. **Install Dependencies**
@@ -57,7 +57,7 @@ yourproject/
 └── README.md
 ```
 
-- `main.py`: The main script containing the agent's code.
+- `langgraph_agent.py`: The main script containing the agent's code.
 - `.env`: File to store environment variables.
 - `requirements.txt`: List of required Python packages.
 - `README.md`: This setup guide.
