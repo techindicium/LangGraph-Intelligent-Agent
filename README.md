@@ -49,7 +49,7 @@ Ensure you have the following installed:
 Here's the structure of the project:
 
 ```
-yourproject/
+LangGraph-Intelligent-Agent/
 │
 ├── main.py
 ├── .env
